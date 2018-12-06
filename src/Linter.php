@@ -41,6 +41,8 @@ class Linter
      */
     private $path;
 
+private prtest;
+
     /**
      * @var array
      */
